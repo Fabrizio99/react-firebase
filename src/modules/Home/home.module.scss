@@ -1,0 +1,15 @@
+.container {
+	background-color: white;
+
+	&__title {
+		color: rgb(71, 71, 71);
+	}
+
+	.text {
+		color: grey;
+	}
+
+	.text.underline {
+		text-decoration: underline;
+	}
+}
